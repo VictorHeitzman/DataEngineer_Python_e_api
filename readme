@@ -1,0 +1,15 @@
+Objetivo:
+Criei um programa que busca as linguagens mais utilizadas de algumas das maiores 
+empresas do mundo como Netflix, amazon, spotify
+
+Detalhes:
+O programa se conecta com api do github extraindo as linguagens mais utilizadas das empresas.
+Salva um csv com essas linguagens.
+Cria um repositorio no meu github
+Hospeda os arquivos extraídos de forma publica para distribuição dos dados. 
+
+Obs: Validar ou criar um token do github, pois, expira em 7 dias
+
+
+
+
